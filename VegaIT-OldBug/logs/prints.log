@@ -1,0 +1,47 @@
+11:50:37.272 [main] DEBUG testNGTests.SearchTest - Browser is closed
+11:51:32.033 [main] DEBUG testNGTests.SearchTest - Test contactTest started
+11:51:33.544 [main] DEBUG testNGTests.SearchTest - driver is started
+11:51:34.452 [main] DEBUG testNGTests.SearchTest - app is open on contact page
+11:51:34.720 [main] DEBUG testNGTests.SearchTest - click on the Allow button for cookies
+11:51:34.960 [main] DEBUG testNGTests.SearchTest - click on the Search button
+11:51:35.031 [main] DEBUG testNGTests.SearchTest - write text
+11:51:36.223 [main] DEBUG testNGTests.SearchTest - press enter on keyboard
+11:51:36.223 [main] INFO  testNGTests.SearchTest - check warning message for SearchResult
+11:51:36.257 [main] ERROR testNGTests.SearchTest - error message on pagejava.lang.Exception
+11:51:36.442 [main] DEBUG testNGTests.SearchTest - Browser is closed
+11:51:36.443 [main] DEBUG testNGTests.SearchTest - Test contactTest started
+11:51:37.523 [main] DEBUG testNGTests.SearchTest - driver is started
+11:51:38.433 [main] DEBUG testNGTests.SearchTest - app is open on contact page
+11:51:38.695 [main] DEBUG testNGTests.SearchTest - click on the Allow button for cookies
+11:51:38.941 [main] DEBUG testNGTests.SearchTest - click on the Search button
+11:51:39.010 [main] DEBUG testNGTests.SearchTest - write text
+11:51:39.336 [main] DEBUG testNGTests.SearchTest - press enter on keyboard
+11:51:39.337 [main] INFO  testNGTests.SearchTest - check warning message for SearchResult
+11:51:44.397 [main] ERROR testNGTests.SearchTest - error message on pageorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Search results']"}
+  (Session info: chrome=123.0.6312.59)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f809e73f5554e52a4e4ff3a263acbc5d, findElement {value=//h1[normalize-space()='Search results'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.59, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\Djurdja\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56288}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56288/devtoo..., se:cdpVersion: 123.0.6312.59, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f809e73f5554e52a4e4ff3a263acbc5d
+11:51:49.803 [main] DEBUG testNGTests.SearchTest - Browser is closed
+11:51:49.804 [main] DEBUG testNGTests.SearchTest - Test contactTest started
+11:51:50.864 [main] DEBUG testNGTests.SearchTest - driver is started
+11:51:51.807 [main] DEBUG testNGTests.SearchTest - app is open on contact page
+11:51:52.040 [main] DEBUG testNGTests.SearchTest - click on the Allow button for cookies
+11:51:52.292 [main] DEBUG testNGTests.SearchTest - click on the Search button
+11:51:52.381 [main] DEBUG testNGTests.SearchTest - write text
+11:51:53.926 [main] DEBUG testNGTests.SearchTest - press enter on keyboard
+11:51:53.926 [main] INFO  testNGTests.SearchTest - check warning message for SearchResult
+11:51:58.973 [main] ERROR testNGTests.SearchTest - error message on pageorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Search results']"}
+  (Session info: chrome=123.0.6312.59)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [01bb98355b10f70c328141fdb6454254, findElement {value=//h1[normalize-space()='Search results'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.59, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\Djurdja\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56331}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56331/devtoo..., se:cdpVersion: 123.0.6312.59, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 01bb98355b10f70c328141fdb6454254
+11:52:04.350 [main] DEBUG testNGTests.SearchTest - Browser is closed
